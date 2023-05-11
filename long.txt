@@ -1,0 +1,5 @@
+Start the project:
+First clone the project
+Then npm install karna
+Then frontend folder me bhi npm install
+Then frontend folder me yarn run dev
